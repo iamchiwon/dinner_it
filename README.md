@@ -33,6 +33,7 @@
 - HyperConnect (contact: 엉덩숭아)
 - 여기어때 (contact: 쿠우)
 - 야놀자 (contact: 제이크)
+- 딜리버리 히어로 코리아 (contact: 돈벌레)
 - 카카오
 - 네이버
 - 우아한형제들
