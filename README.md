@@ -35,6 +35,8 @@
 **Entries**
 
 - Toss (contact: 애니옵젝)
+	- 참석 : 곰튀김, 연화, 403
+	- 일시 : 2019.01.21 19:30 
 - HyperConnect (contact: 엉덩숭아)
 - 여기어때 (contact: 쿠우)
 - 야놀자 (contact: 제이크)
