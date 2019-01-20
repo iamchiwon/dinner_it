@@ -1,6 +1,6 @@
 # IT 회사 방문기
 
-> 곰튀김, 연화, 403 이 간다! `IT회사 방문기` <br/>
+> 곰튀김, 연화, 403, 구범모 가 간다! `IT회사 방문기` <br/>
 > (iOS 개발자들 입니다. / iOS 개발자 중심으로 내용이 구성됩니다.)
 
 <br/>
@@ -36,7 +36,7 @@
 **Entries**
 
 - Toss (contact: 애니옵젝)
-	- 참석 : 곰튀김, 연화, 403, (촬영협조)구범모
+	- 참석 : 곰튀김, 연화, 403, (촬영)구범모
 	- 일시 : 2019.01.21 19:30 
 	- [질문 리스트](https://github.com/iamchiwon/dinner_it/blob/master/QnA-toss.md)
 - HyperConnect (contact: 엉덩숭아)
