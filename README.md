@@ -36,8 +36,8 @@
 **Entries**
 
 - Toss (contact: 애니옵젝)
-	- 참석 : 곰튀김, 연화, 403, (촬영)구범모
-	- 일시 : 2019.01.21 19:30 
+	- 참석 : 곰튀김, 연화, (촬영)구범모
+	- 일시 : 2019.02.07 19:30 
 	- [질문 리스트](https://github.com/iamchiwon/dinner_it/blob/master/QnA-toss.md)
 - HyperConnect (contact: 엉덩숭아)
 - 여기어때 (contact: 쿠우)
