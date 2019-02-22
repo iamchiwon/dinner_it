@@ -36,14 +36,14 @@
 **Entries**
 
 - Toss (contact: 애니옵젝)
-	- 참석 : 곰튀김, 연화, 403, 구범모
-	- 일시 : 2019.01.21 19:30 
+	- 참석 : 곰튀김, 연화, (촬영)구범모
+	- 일시 : 2019.02.07 19:30 
 	- [질문 리스트](https://github.com/iamchiwon/dinner_it/blob/master/QnA-toss.md)
 - HyperConnect (contact: 엉덩숭아)
-- 여기어때 (contact: 쿠우)
 - 야놀자 (contact: 제이크)
 - 딜리버리 히어로 코리아 (contact: 돈벌레)
 - 카카오뱅크 (contact: 민소네)
+- 스타일쉐어 (contact: 전수열)
 - 카카오
 - 네이버
 - 우아한형제들
