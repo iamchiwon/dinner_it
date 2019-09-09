@@ -39,10 +39,12 @@
 	- 참석 : 곰튀김, 연화, (촬영)구범모
 	- 일시 : 2019.02.07 19:30 
 	- [질문 리스트](https://github.com/iamchiwon/dinner_it/blob/master/QnA-toss.md)
+	
 - Swichee (contact: 김건우)
-        - 참석 : 곰튀김
+	- 참석 : 곰튀김
 	- 일시 : 2019.08.01 19:30
 	- https://youtu.be/8aVd6JrHpes
+	
 - HyperConnect (contact: 엉덩숭아)
 - ~여기어때 (contact: 쿠우)~
 - 야놀자 (contact: 제이크)
