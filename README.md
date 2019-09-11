@@ -48,6 +48,7 @@
 - 스타일쉐어 (contact: 403)
 	- 참석 : 곰튀김
 	- 일시 : 2019.09.10 26:00
+	- https://youtu.be/8N-xs35rxzU
 
 - HyperConnect (contact: 엉덩숭아)
 - ~여기어때 (contact: 쿠우)~
