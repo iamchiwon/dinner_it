@@ -44,13 +44,16 @@
 	- 참석 : 곰튀김
 	- 일시 : 2019.08.01 19:30
 	- https://youtu.be/8aVd6JrHpes
-	
+
+- 스타일쉐어 (contact: 403)
+	- 참석 : 곰튀김
+	- 일시 : 2019.09.10 26:00
+
 - HyperConnect (contact: 엉덩숭아)
 - ~여기어때 (contact: 쿠우)~
 - 야놀자 (contact: 제이크)
 - ~딜리버리 히어로 코리아 (contact: 돈벌레)~
 - 카카오뱅크 (contact: 민소네)
-- 스타일쉐어 (contact: 403)
 - 카카오
 - 네이버
 - 우아한형제들
